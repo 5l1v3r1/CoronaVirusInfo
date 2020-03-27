@@ -8,6 +8,9 @@
   <a href="https://github.com/stepbystepexe/Anonymous/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT%203-red.svg">
   </a>
+  <a href="https://github.com/stepbystepexe/Anonymous/blob/master/security/advisories">
+    <img src="https://img.shields.io/badge/Security-Plicy-success.svg">
+  </a>
   <a href="https://opensource.org">
     <img src="https://img.shields.io/badge/Open%20Source-●-yellow.svg">
   </a>
@@ -51,7 +54,7 @@ NB          : Manusia gax ada yang sempurna
 ### Installisasi:
 ```text
 git clone https://github.com/stepbystepexe/CoronaVirusInfo
-cd Anonymous
+cd CoronaVirusInfo
 ls
 chmod +x
 ./covid19.py
