@@ -1,5 +1,5 @@
 <h1 align="center">CoronVirusInfo</h1>
-<h5 align="center">Informasi data terbaru mengenai kasus Virus Corona di seluruh dunia, Info ini di ambil dari api yang telah di sediakan oleh Ethical Hacker Indonesia (kawalcorona.com)</h5>
+<h5 align="center">Informasi data terbaru mengenai kasus Virus Corona di seluruh dunia, Info ini di ambil dari API yang telah di sediakan oleh Ethical Hacker Indonesia (kawalcorona.com)</h5>
 
 <p align="center">
   <a href="www.python.org">
@@ -34,7 +34,7 @@
 ### Informasi:
 ```text
 Nama        : CoronaVirusInfo
-Versi       : 3.0 (Dibiaut: 27 Maret 2020, 1:00 AM)
+Versi       : 1.0 (Dibiaut: 27 Maret 2020, 1:00 AM)
 Tanggal     : 01 Januari 2020
 Author      : Nedi Senja
 Tujuan      : Melihat korban yang terpapr
