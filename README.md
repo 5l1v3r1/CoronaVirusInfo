@@ -31,7 +31,7 @@
 ### Informasi:
 ```text
 Nama        : CoronaVirusInfo
-Versi       : 1.0 (Dibiaut: 27 Maret 2020, 1:00 AM)
+Versi       : 1.0 (Dibuat: 27 Maret 2020, 1:00 AM)
 Tanggal     : 01 Januari 2020
 Author      : Nedi Senja
 Tujuan      : Melihat korban yang terjengkit
