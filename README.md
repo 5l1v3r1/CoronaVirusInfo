@@ -8,11 +8,8 @@
   <a href="https://github.com/stepbystepexe/Anonymous/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-red.svg">
   </a>
-  <a href="https://github.com/stepbystepexe/Anonymous/blob/master/security/advisories">
-    <img src="https://img.shields.io/badge/Security-Policy-success.svg">
-  </a>
   <a href="https://opensource.org">
-    <img src="https://img.shields.io/badge/Open%20Source-●-yellow.svg">
+    <img src="https://img.shields.io/badge/Open%20Source-●-success.svg">
   </a>
 </p>
 
