@@ -2,10 +2,10 @@
 <h5 align="center">Informasi data terbaru mengenai kasus Virus Corona di seluruh dunia, Info ini di ambil dari API yang telah di sediakan oleh Ethical Hacker Indonesia (kawalcorona.com)</h5>
 
 <p align="center">
-  <a href="www.python.org">
+  <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Language-Python3-blue.svg">
   </a>
-  <a href="https://github.com/stepbystepexe/Anonymous/blob/master/LICENSE">
+  <a href="https://github.com/stepbystepexe/CoronaVirusInfo/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-red.svg">
   </a>
   <a href="https://opensource.org">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2FCoronaVirusInfo" alt="Twitter"> <br>
+ <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2FCoronaVirusInfo" alt="Twitter">
 </p>
 
 ### Informasi:
@@ -34,7 +34,7 @@ Nama        : CoronaVirusInfo
 Versi       : 1.0 (Dibiaut: 27 Maret 2020, 1:00 AM)
 Tanggal     : 01 Januari 2020
 Author      : Nedi Senja
-Tujuan      : Melihat korban yang terpapr
+Tujuan      : Melihat korban yang terjengkit
               Virus Corona (CoVid.19)
 Terimakasih : Allah SWT.
               FR13NDS, & seluruh
